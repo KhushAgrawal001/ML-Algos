@@ -9,7 +9,6 @@ This repository contains a collection of key machine learning algorithms and dat
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This repository provides implementations of some of the most important machine learning algorithms, including regression, classification, clustering, and dimensionality reduction techniques. The examples are presented in Jupyter Notebooks, making it easy to understand and experiment with each algorithm.
